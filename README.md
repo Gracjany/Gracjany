@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # 💫 About Me:
 A passionate software developer from Poland<br><br>🔭 I’m currently working on Company Website<br><br>🌱 I’m currently learning Software Engineering<br><br>💬 Ask me about HTML, CSS, Java... or anything here<br><br>⚡ Fun fact The shortest war in history lasted only 38 minutes! <br>It was between Britain and Zanzibar on August 27, 1896.<br> Zanzibar surrendered after the British bombarded their palace.
 
@@ -22,3 +24,5 @@ A passionate software developer from Poland<br><br>🔭 I’m currently working 
 [![](https://visitcount.itsvg.in/api?id=Gracjany&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
