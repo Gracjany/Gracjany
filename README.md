@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is Gracjan Rygielski:
+# 💫 About Me:
 A passionate software developer from Poland<br><br>🔭 I’m currently working on Company Website<br><br>🌱 I’m currently learning Software Engineering<br><br>💬 Ask me about HTML, CSS, Java... or anything here<br><br>⚡ Fun fact The shortest war in history lasted only 38 minutes! <br>It was between Britain and Zanzibar on August 27, 1896.<br> Zanzibar surrendered after the British bombarded their palace.
 
 
@@ -14,9 +14,6 @@ A passionate software developer from Poland<br><br>🔭 I’m currently working 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gracjany&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gracjany&icon=0&color=12)](https://visitcount.itsvg.in)
