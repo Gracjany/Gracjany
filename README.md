@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Gracjan Rygielski:
-A passionate Frontend Developer from Poland<br><br>🔭 I’m currently working on a website for a Design Company<br><br>🌱 I’m currently learning Software Engineering<br><br>💬 Ask me about HTML, CSS, Java... or anything here<br><br>⚡ Fun fact The shortest war in history lasted only 38 minutes! <br>It was between Britain and Zanzibar on August 27, 1896.<br> Zanzibar surrendered after the British bombarded their palace.
+A passionate Frontend Developer from Poland<br><br>🔭 I’m currently working on a website for a Design Company<br><br>🌱 I’m currently learning JavaScript<br><br>💬 Ask me about HTML, CSS, Java... or anything here<br><br>⚡ Fun fact The shortest war in history lasted only 38 minutes! <br>It was between Britain and Zanzibar on August 27, 1896.<br> Zanzibar surrendered after the British bombarded their palace.
 
 
 ## 🌐 Socials:
